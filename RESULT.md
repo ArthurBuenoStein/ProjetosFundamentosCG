@@ -5,3 +5,7 @@ Print do funcionamento M1 - Hello3D
 Print do funcionamento M2 - Cubo
 
 ![Print_Execucao](https://github.com/ArthurBuenoStein/ProjetosFundamentosCG/assets/77999897/60327663-1d99-428b-92c5-5fe3b83012d2)
+
+Print do funcionamento M2 - Cubo
+
+![print_execucao_m3](https://github.com/ArthurBuenoStein/ProjetosFundamentosCG/assets/77999897/de39f074-72fa-43dd-b339-9fbd5e1dc23d)
